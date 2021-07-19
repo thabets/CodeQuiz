@@ -1,0 +1,29 @@
+body header {
+  color: black;
+  display: block;
+  padding: auto;
+  margin: auto;
+  height: 50px;
+}
+body header div a {
+  text-align: left;
+  float: left;
+}
+body header div p {
+  text-align: right;
+  float: right;
+}
+body div .page-content {
+  width: 20;
+  padding-top: 10%;
+}
+
+body #introduction {
+  display: block;
+  border: black;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 20%;
+}

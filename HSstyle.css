@@ -1,0 +1,27 @@
+* {
+}
+
+body header {
+  text-align: center;
+  color: wheat;
+  background-color: purple;
+  padding: 10px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+body div {
+  text-align: center;
+  padding-top: 5%;
+}
+
+body .list {
+  margin: 25%;
+  border: rgb(105, 0, 105);
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 10px;
+  padding: 0 0 0 0;
+  background-color: purple;
+  color: wheat;
+}
